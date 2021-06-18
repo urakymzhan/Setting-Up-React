@@ -1,8 +1,14 @@
 
-# Setting Up React for Chicago Tour Project
 
-> Class: Introduction to React
+---
 
+Setting Up React
+
+--- 
+
+> Introduction to React
+
+ 
 ## Introduction
 
 The goal of this tutorial is to learn the foundational concepts of React by building a web site using React. This tutorial will keep things simple and focus on only a few core concepts. Future lessons will build on these concepts.
