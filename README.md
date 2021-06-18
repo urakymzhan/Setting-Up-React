@@ -5,9 +5,6 @@
 Setting Up React
 
 --- 
-
-> Introduction to React
-
  
 ## Introduction
 
