@@ -214,7 +214,7 @@ JSX gives an alternative way to write our code that generates HTML.
 
 ## Using Git/GitHub
 
-Much like we've done in earlier tutorials, make sure you're committing your code as you complete milestones. At a minimum, you should make a commit whenever the tutorial prompts you.
+Make sure you're committing your code as you complete milestones. At a minimum, you should make a commit whenever the tutorial prompts you.
 
 ### Set Up Git/GitHub
 
